@@ -6,7 +6,7 @@ detail: one image on the left_top,one on the right_top,one at left_bottom,one at
 
 Datasets formats: coco datasets.
 
-
+![mosaic](D:\PythonProjects\Mosaic_img\mosaic.png)
 
 # quickstart
 
