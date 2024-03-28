@@ -6,7 +6,7 @@ detail: one image on the left_top,one on the right_top,one at left_bottom,one at
 
 Datasets formats: coco datasets.
 
-![mosaic](D:\PythonProjects\Mosaic_img\mosaic.png)
+![image]([mosaic-for-object-detetion/mosaic.png at master · gcpctt/mosaic-for-object-detetion (github.com)](https://github.com/gcpctt/mosaic-for-object-detetion/blob/master/mosaic.png))
 
 # quickstart
 
@@ -14,7 +14,7 @@ One can use **mosaic_gpt.py** to quickstart,only to change the **img_dir** and *
 
 I also make mixup in **mixup.py**, it is simple.
 
-
+You also can change **random_num** to control the num of output_images
 
 ps: this is my first code on github,If there is anything inappropriate, please forgive me.
 
