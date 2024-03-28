@@ -6,7 +6,7 @@ detail: one image on the left_top,one on the right_top,one at left_bottom,one at
 
 Datasets formats: coco datasets.
 
-![image]([mosaic-for-object-detetion/mosaic.png at master · gcpctt/mosaic-for-object-detetion (github.com)](https://github.com/gcpctt/mosaic-for-object-detetion/blob/master/mosaic.png))
+![image](images/mosaic.png)
 
 # quickstart
 
